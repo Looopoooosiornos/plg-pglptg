@@ -1,0 +1,40 @@
+#Hed
+{
+	background-color: rgba(171,240,0);
+	width: 100%;
+	height: 10%;
+	border-radius:  0px 0px 100px 100px;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+}
+#conferm
+{
+	width: 40%;
+	height: 80%;
+	background-color: rgba(52,53,49, .4);
+	position: absolute;
+	top: 10%;
+	left:30%;
+}
+#checkbox
+{
+	position: absolute;
+	top: 85%;
+	left: 30%;
+}
+#Agrry
+{
+	position: absolute;
+	top: 85%;
+	left: 31.5%;
+}
+#background
+{
+	background-color: rgba(208, 248, 111);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+}
